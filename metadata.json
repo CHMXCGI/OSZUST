@@ -1,0 +1,5 @@
+{
+  "name": "OSZUST DZIAŁAMY",
+  "description": "A React-based web application for the Polish card game 'OSZUST' (Liar). Play against a smart AI, use strategic bluffs, and try to be the first to get rid of all your cards. The interface is designed for intuitive mobile gameplay.",
+  "requestFramePermissions": []
+}
